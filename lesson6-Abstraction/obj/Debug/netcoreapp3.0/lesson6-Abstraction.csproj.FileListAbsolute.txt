@@ -1,0 +1,11 @@
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.exe
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.deps.json
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.runtimeconfig.json
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.runtimeconfig.dev.json
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.dll
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\bin\Debug\netcoreapp3.0\lesson6-Abstraction.pdb
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\obj\Debug\netcoreapp3.0\lesson6-Abstraction.csprojAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\obj\Debug\netcoreapp3.0\lesson6-Abstraction.AssemblyInfoInputs.cache
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\obj\Debug\netcoreapp3.0\lesson6-Abstraction.AssemblyInfo.cs
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\obj\Debug\netcoreapp3.0\lesson6-Abstraction.dll
+D:\C-sharp-OOP-howKteam\lesson6-Abstraction\obj\Debug\netcoreapp3.0\lesson6-Abstraction.pdb

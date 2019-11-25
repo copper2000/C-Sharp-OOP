@@ -1,0 +1,6 @@
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\bin\Debug\lesson2-PhamViTruyCap.exe.config
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\bin\Debug\lesson2-PhamViTruyCap.exe
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\bin\Debug\lesson2-PhamViTruyCap.pdb
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\obj\Debug\lesson2-PhamViTruyCap.csprojResolveAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\obj\Debug\lesson2-PhamViTruyCap.exe
+D:\C-sharp-OOP-howKteam\lesson2-PhamViTruyCap\lesson2-PhamViTruyCap\obj\Debug\lesson2-PhamViTruyCap.pdb

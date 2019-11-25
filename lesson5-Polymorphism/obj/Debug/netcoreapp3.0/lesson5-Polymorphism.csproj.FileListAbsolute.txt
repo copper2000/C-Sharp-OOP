@@ -1,0 +1,11 @@
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.exe
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.deps.json
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.runtimeconfig.json
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.runtimeconfig.dev.json
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.dll
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\bin\Debug\netcoreapp3.0\lesson5-Polymorphism.pdb
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\obj\Debug\netcoreapp3.0\lesson5-Polymorphism.csprojAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\obj\Debug\netcoreapp3.0\lesson5-Polymorphism.AssemblyInfoInputs.cache
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\obj\Debug\netcoreapp3.0\lesson5-Polymorphism.AssemblyInfo.cs
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\obj\Debug\netcoreapp3.0\lesson5-Polymorphism.dll
+D:\C-sharp-OOP-howKteam\lesson5-Polymorphism\obj\Debug\netcoreapp3.0\lesson5-Polymorphism.pdb

@@ -1,0 +1,11 @@
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.exe
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.deps.json
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.runtimeconfig.json
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.runtimeconfig.dev.json
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.dll
+D:\C-sharp-OOP-howKteam\lesson1-Class\bin\Debug\netcoreapp3.0\lesson1-Class.pdb
+D:\C-sharp-OOP-howKteam\lesson1-Class\obj\Debug\netcoreapp3.0\lesson1-Class.csprojAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson1-Class\obj\Debug\netcoreapp3.0\lesson1-Class.AssemblyInfoInputs.cache
+D:\C-sharp-OOP-howKteam\lesson1-Class\obj\Debug\netcoreapp3.0\lesson1-Class.AssemblyInfo.cs
+D:\C-sharp-OOP-howKteam\lesson1-Class\obj\Debug\netcoreapp3.0\lesson1-Class.dll
+D:\C-sharp-OOP-howKteam\lesson1-Class\obj\Debug\netcoreapp3.0\lesson1-Class.pdb

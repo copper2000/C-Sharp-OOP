@@ -1,0 +1,11 @@
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.exe
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.deps.json
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.runtimeconfig.json
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.runtimeconfig.dev.json
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.dll
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\bin\Debug\netcoreapp3.0\lesson3-StaticKeyword.pdb
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\obj\Debug\netcoreapp3.0\lesson3-StaticKeyword.csprojAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\obj\Debug\netcoreapp3.0\lesson3-StaticKeyword.AssemblyInfoInputs.cache
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\obj\Debug\netcoreapp3.0\lesson3-StaticKeyword.AssemblyInfo.cs
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\obj\Debug\netcoreapp3.0\lesson3-StaticKeyword.dll
+D:\C-sharp-OOP-howKteam\lesson3-StaticKeyword\obj\Debug\netcoreapp3.0\lesson3-StaticKeyword.pdb

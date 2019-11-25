@@ -1,0 +1,11 @@
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.exe
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.deps.json
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.runtimeconfig.json
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.runtimeconfig.dev.json
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.dll
+D:\C-sharp-OOP-howKteam\lesson7-Interface\bin\Debug\netcoreapp3.0\lesson7-Interface.pdb
+D:\C-sharp-OOP-howKteam\lesson7-Interface\obj\Debug\netcoreapp3.0\lesson7-Interface.csprojAssemblyReference.cache
+D:\C-sharp-OOP-howKteam\lesson7-Interface\obj\Debug\netcoreapp3.0\lesson7-Interface.AssemblyInfoInputs.cache
+D:\C-sharp-OOP-howKteam\lesson7-Interface\obj\Debug\netcoreapp3.0\lesson7-Interface.AssemblyInfo.cs
+D:\C-sharp-OOP-howKteam\lesson7-Interface\obj\Debug\netcoreapp3.0\lesson7-Interface.dll
+D:\C-sharp-OOP-howKteam\lesson7-Interface\obj\Debug\netcoreapp3.0\lesson7-Interface.pdb
